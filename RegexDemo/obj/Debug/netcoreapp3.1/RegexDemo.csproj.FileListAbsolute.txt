@@ -1,0 +1,13 @@
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.exe
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.deps.json
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.runtimeconfig.json
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.runtimeconfig.dev.json
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.dll
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.pdb
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.csprojAssemblyReference.cache
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.AssemblyInfoInputs.cache
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.AssemblyInfo.cs
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.dll
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.pdb
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MyDemo\RegexDemo01\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.csproj.CopyComplete
